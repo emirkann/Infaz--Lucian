@@ -1,0 +1,10 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\bin\Release\LateLucian.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\bin\Release\LateLucian.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\bin\Release\LateLucian.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\bin\Release\EloBuddy.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\bin\Release\EloBuddy.SDK.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\bin\Release\SharpDX.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\obj\Release\LateLucian.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LateLucian\LateLucian\obj\Release\LateLucian.pdb

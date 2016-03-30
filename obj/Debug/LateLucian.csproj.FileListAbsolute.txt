@@ -1,0 +1,11 @@
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\bin\Debug\LateLucian.exe.config
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\bin\Debug\LateLucian.exe
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\bin\Debug\LateLucian.pdb
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\bin\Debug\EloBuddy.dll
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\bin\Debug\EloBuddy.SDK.dll
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\bin\Debug\SharpDX.dll
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\bin\Debug\Newtonsoft.Json.dll
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\obj\Debug\LateLucian.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\obj\Debug\LateLucian.exe
+c:\users\ben\documents\visual studio 2015\Projects\LateLucian\LateLucian\obj\Debug\LateLucian.pdb
