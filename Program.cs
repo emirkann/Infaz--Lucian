@@ -56,7 +56,7 @@ namespace InfazLucıan
             Combo.Add("CQ", new CheckBox("Use Q"));
             Combo.Add("CW", new CheckBox("Use W"));
             StringList(Combo, "CE", "Use E Mode", new[] { "Side", "Cursor", "Enemy", "Never" }, 0);
-            Combo.Add("ForceR", new KeyBind("Force R On Target Selector", false, KeyBind.BindTypes.Holdfalse,"T".ToCharArray()[0]));
+            Combo.Add("ForceR", new KeyBind("Force R On Target Selector", false, KeyBind.BindTypes.HoldTrue,"T".ToCharArray()[0]));
 
             Misc = Menu.AddSubMenu("Misc");
             Misc.Add("Humanizer", new Slider("Humanizer Delay", 5, 5, 300));
